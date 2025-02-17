@@ -88,7 +88,7 @@ const Sidebar = () => {
             isSidebarCollapsed ? "hidden" : "block"
           } font-extrabold text-2xl`}
         >
-          ShopMirage
+          Mirage Market
         </h1>
 
         <button
